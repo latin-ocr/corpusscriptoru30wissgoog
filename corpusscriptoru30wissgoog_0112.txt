@@ -1,0 +1,16 @@
+Inst. = Diuinae Institutione&
+
+Ep. = Epitome Diuinarum Institutionum.
+Op. = De opificio dei.
+
+Ir. = De ira dei.
+
+Phoen. = De aue Phoenice.
+
+Fraym. = Librorum perditorum fragmenta.
+Mort. = De mortibus persecutorum.
+
+Testim. = Vetera de Lactantio testimonia.
+
+ 
+

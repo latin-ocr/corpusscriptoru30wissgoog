@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru30wissgoog_0009.png"; bbox 0 0 3132 5043; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 587 1692 2169 1820">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 587 1692 2169 1820">
+     <span class='ocr_line' id='line_1_1' title="bbox 587 1692 2169 1820; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 587 1731 590 1734; x_wconf 74' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 663 1692 1423 1819; x_wconf 84' lang='lat' dir='ltr'>FRIDERICO</span> <span class='ocrx_word' id='word_1_3' title='bbox 1518 1693 2169 1820; x_wconf 82' lang='lat' dir='ltr'>SCHOELL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 258 2075 2563 2152">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 258 2075 2563 2152">
+     <span class='ocr_line' id='line_1_2' title="bbox 258 2075 2563 2152; baseline 0.001 -3"><span class='ocrx_word' id='word_1_4' title='bbox 258 2077 467 2150; x_wconf 88' lang='lat' dir='ltr'><strong>PER</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 542 2075 902 2150; x_wconf 82' lang='lat' dir='ltr'><strong>TOTAM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 975 2077 1265 2152; x_wconf 85' lang='lat' dir='ltr'>HANC</span> <span class='ocrx_word' id='word_1_7' title='bbox 1342 2077 1927 2150; x_wconf 87' lang='lat' dir='ltr'>EDITIONEM</span> <span class='ocrx_word' id='word_1_8' title='bbox 1995 2077 2563 2151; x_wconf 87' lang='lat' dir='ltr'><strong>LACTANTII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 372 2421 2441 2553">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 372 2421 2441 2553">
+     <span class='ocr_line' id='line_1_3' title="bbox 372 2421 2441 2553; baseline -0 -9"><span class='ocrx_word' id='word_1_9' title='bbox 372 2421 689 2544; x_wconf 83' lang='lat' dir='ltr'>COMITI</span> <span class='ocrx_word' id='word_1_10' title='bbox 746 2421 1425 2546; x_wconf 76' lang='lat' dir='ltr'>BENIGNISSIMU</span> <span class='ocrx_word' id='word_1_11' title='bbox 1486 2423 2441 2553; x_wconf 79' lang='lat' dir='ltr'>PRVDENTISSIMOOVE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1080 2993 1745 3073">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1080 2993 1745 3073">
+     <span class='ocr_line' id='line_1_4' title="bbox 1080 2993 1745 3073; baseline 0.002 -3"><span class='ocrx_word' id='word_1_12' title='bbox 1080 2993 1745 3073; x_wconf 74' lang='lat' dir='ltr'>EDITORES</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
